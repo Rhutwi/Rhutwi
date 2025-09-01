@@ -60,7 +60,7 @@ Real-time robotic delivery using **ArUco vision + Nav2 navigation**.
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rhutwi-vyas)  
-- 📧 rhutwi.vyas@example.com  
+- 📧 rhutwivyas5@gmail.com
 - 🌏 Melbourne, Australia  
 
 ---
